@@ -6,7 +6,7 @@ REM
 
 REM
 if '%errorlevel%' NEQ '0' (
-    echo Aferiad Kamal: Requesting administrative privileges...
+    echo NacreousDawn596: Requesting administrative privileges...
     goto UACPrompt
 ) else ( goto gotAdmin )
 
