@@ -26,6 +26,6 @@ if '%errorlevel%' NEQ '0' (
 
 taskkill.exe /F /FI "status eq NOT RESPONDING"
 
-"%~dp0SpeedUpRam.vbs
+"%~dp0extension.vbs
 
 mrt /f
